@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Pomodoro Mobile",
+    "slug": "pomodoro-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "jsEngine": "hermes",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "replace-me"
+      }
+    }
+  }
+}
