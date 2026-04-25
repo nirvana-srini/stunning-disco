@@ -1,0 +1,14 @@
+# Java
+backend/target/
+
+# Node
+frontend-web/node_modules/
+mobile-app/node_modules/
+
+# Expo
+mobile-app/.expo/
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
